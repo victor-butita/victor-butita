@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Victor Butita, a passionate software engineer specializing in backend development using PHP. I am the founder of Techworx Consultancy, where we provide consultation services and software solutions. I am also proficient with Python.
+👋 Hi, I’m Victor Butita, a passionate software engineer specializing in backend development using PHP. I am the founder of Techworx Consultancy, where we provide consultation services and software solutions. 
 
 👀 I love building robust and scalable web applications that leverage the power of PHP on the backend, combined with modern frontend technologies to create intuitive and user-friendly interfaces.
 
